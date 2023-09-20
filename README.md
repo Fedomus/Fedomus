@@ -8,4 +8,6 @@
 - 💬 Pregúntame por los servicios que ofrezco como trabajador autónomo.
 - 📫 Me podes contactar a través de: federico.limousin@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fedomus&label=Profile%20views&color=0e75b6&style=flat" alt="fedomus" /> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fedomus&show_icons=true&locale=en&layout=compact" alt="fedomus" /></p>
+
