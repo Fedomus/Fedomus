@@ -9,6 +9,14 @@
 - 📫 Me podes contactar a través de: federico.limousin@gmail.com
 
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fedomus&label=Profile%20views&color=0e75b6&style=flat" alt="fedomus" /> </p>
 
-### :fire: My Stats :
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fedomus&show_icons=true&locale=en&layout=compact" alt="fedomus" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fedomus&show_icons=true&locale=en" alt="fedomus" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fedomus&" alt="fedomus" /></p>
