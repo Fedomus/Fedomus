@@ -10,5 +10,7 @@ Here you can find some of my projects.
   <li>💬 I'm a freelancer, my contact is federico.limousin@gmail.com.</li>
 </ul>
 
+<br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fedomus&show_icons=true&locale=en&layout=compact" alt="fedomus" /></p>
 
