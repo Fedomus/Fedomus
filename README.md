@@ -1,14 +1,15 @@
-¡Hola! 👋
+¡Hi! 👋, I'm 
 
-Soy Federico Limousin
+<h3>Federico Limousin</h3>
 
-Aquí podrán encontrar el código de algunos de mis trabajos y proyectos hechos.
+Here you can find some of my projects.
 
-- 🔭 Actualmente estoy trabajando en aplicaciones web utilizando principalmente Node.js, Express.js, NestJs y Angular
-- 🌱 Estoy formándome constantemente de manera autodidacta tanto en análisis de datos con Python como en desarrollo web con JavaScript y TypeScript.
-- 💬 Pregúntame por los servicios que ofrezco como trabajador autónomo.
-- 📫 Me podes contactar a través de: federico.limousin@gmail.com
-
+<ul>
+  <li>🔭 Currently I'm working on web applications using Node.js, Express.js, NestJs and Angular</li>
+  <li>🌱 I'm constantly learning self-though on both data analysis with Python and web programming usig con JavaScript and TypeScript.</li>
+  <li>💬 I'm a freelancer, my contact is federico.limousin@gmail.com.</li>
+  <li></li>
+</ul>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fedomus&show_icons=true&locale=en&layout=compact" alt="fedomus" /></p>
 
