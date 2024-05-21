@@ -6,8 +6,8 @@ Here you can find some of my projects.
 
 <ul>
   <li>🔭 Currently I'm working on web applications using Node.js, Express.js, NestJs and Angular</li>
-  <li>🌱 I'm constantly learning self-though on both data analysis with Python and web programming usig con JavaScript and TypeScript.</li>
-  <li>💬 I'm a freelancer, my contact is federico.limousin@gmail.com.</li>
+  <li>🌱 I'm constantly learning self-though on both data analysis and web programming</li>
+  <li>💬 I'm a freelancer, my contact is federico.limousin@gmail.com</li>
 </ul>
 
 <br>
