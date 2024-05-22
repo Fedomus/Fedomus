@@ -11,24 +11,7 @@ Acá comparto algunos de mis proyectos.
 </ul>
 
 <hr>
-## English 
-
-¡Hi! 👋, I'm 
-
-<h3>Federico Limousin</h3>
-
-Here you can find some of my projects.
-
-<ul>
-  <li>🔭 Currently I'm working on web applications (Node.js, WordPress) and data mining (Python)</li>
-  <li>🌱 I'm constantly learning self-though on both data analysis and web programming</li>
-  <li>💬 I'm a freelancer, my contact is federico.limousin@gmail.com</li>
-</ul>
-
-<br>
-
-<hr>
-# English 
+<a>English</a> 
 
 ¡Hi! 👋, I'm 
 
