@@ -11,7 +11,7 @@ Acá comparto algunos de mis proyectos.
 </ul>
 
 <hr>
-<a>English</a> 
+<h3>English</h3> 
 
 ¡Hi! 👋, I'm 
 
