@@ -1,5 +1,3 @@
-<a href="#english">English version</a>👇 
-
 ¡Hola! 👋, Soy
 
 <h3>Federico Limousin</h3>
@@ -12,7 +10,7 @@ Acá comparto algunos de mis proyectos.
   <li>💬 Soy freelancer, mi contacto es federico.limousin@gmail.com</li>
 </ul>
 
-<hr id="english">
+<hr>
 ## English 
 
 ¡Hi! 👋, I'm 
@@ -29,9 +27,7 @@ Here you can find some of my projects.
 
 <br>
 
-
-
-<hr id="english">
+<hr>
 # English 
 
 ¡Hi! 👋, I'm 
