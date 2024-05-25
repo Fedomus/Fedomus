@@ -3,11 +3,10 @@
 <h3>Federico Limousin</h3>
 
 Acá comparto algunos de mis proyectos.
-
 <ul>
-  <li>🔭 Actualmente trabajo en aplicaciones web (Node.js, WordPress) y analytics y minería de datos (Python)</li>
-  <li>🌱 Estoy constantemente estudiando tanto en ananlítica de datos como en programación web</li>
-  <li>💬 Soy freelancer, mi contacto es federico.limousin@gmail.com</li>
+  <li>Soy de Buenos Aires, Argentina</li>
+  <li>🔭 Actualmente trabajo en aplicaciones web (Node.js, WordPress) y minería y analítica de datos (Python)</li>
+  <li>🌱 Estoy constantemente estudiando y buscando nuevos desafíos</li>
 </ul>
 
 <hr>
@@ -20,9 +19,9 @@ Acá comparto algunos de mis proyectos.
 Here you can find some of my projects.
 
 <ul>
-  <li>🔭 Currently I'm working on web applications (Node.js, WordPress) and data mining (Python)</li>
-  <li>🌱 I'm constantly learning self-though on both data analysis and web programming</li>
-  <li>💬 I'm a freelancer, my contact is federico.limousin@gmail.com</li>
+  <li>I'm from Buenos Aires, Argentina</li>
+  <li>🔭 Currently I'm working on web applications (Node.js, WordPress) and data analytics (Python)</li>
+  <li>🌱 I'm constantly learning self-though and looking for new challenges</li>
 </ul>
 
 <br>
