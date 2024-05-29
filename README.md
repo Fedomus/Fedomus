@@ -18,7 +18,7 @@
 <br>
 <hr>
 <br>
-<h3 id="english">English version</h3>
+<span id="english">English version</span>
 <br>
 
 ¡Hi! 👋, I'm 
