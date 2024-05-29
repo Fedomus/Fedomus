@@ -1,16 +1,13 @@
 [English version](#english)
 
 ¡Hola! 👋, Soy
+### Federico Limousin
 
-## Federico Limousin
-
-** Estos son algunos de mis proyectos **
+### Este es mi prtafolio de proyectos
 
 |Repositorio|Tecnologías|Descripción|
 | --- | --- | --- |
-| [secure-real-time-multiplayer-game](https://github.com/Fedomus/secure-real-time-multiplayer-game) | Node | 5to proyecto final del curso de freeCodeCamp 'Information Security'. Juego multijugador online con medidas de seguridad en el back-end |  Node.js - Express - Helmet.js - socket.io - HTML Canvas |
-| This | is 2nd | row |
-| This | is 3rd | row |
+| [Secure real time multiplayer game](https://github.com/Fedomus/secure-real-time-multiplayer-game) | Node.js - Express - Helmet.js - socket.io - HTML Canvas | 5to proyecto final del curso de freeCodeCamp 'Information Security'. Juego multijugador online con medidas de seguridad en el back-end |
  
 <hr>
 <h3 id="english">English</h3> 
