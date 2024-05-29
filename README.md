@@ -1,7 +1,6 @@
 👇 [Go to english version](#english)
 
 <br>
-<br>
 
 ¡Hola! 👋, Soy
 
@@ -19,7 +18,7 @@
 <br>
 <hr>
 <br>
-<h3 id="english">English version</h3> 
+<h3 id="english">English version</h3>
 <br>
 
 ¡Hi! 👋, I'm 
