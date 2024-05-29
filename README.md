@@ -18,6 +18,7 @@
 <br>
 <hr>
 <p id="english">English version</p>
+<br>
 
 ¡Hi! 👋, I'm 
 
