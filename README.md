@@ -2,9 +2,7 @@
 
 <br>
 
-¡Hola! 👋, Soy
-
-### Federico Limousin
+¡Hola! 👋
 
 ### Este es mi prtafolio de proyectos
 
@@ -22,9 +20,7 @@
 <p id="english">English version</p>
 <br>
 
-¡Hi! 👋, I'm 
-
-### Federico Limousin
+¡Hi! 👋
 
 ### This is my portfolio
 
