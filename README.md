@@ -4,7 +4,7 @@
 
 ¡Hola! 👋
 
-### Este es mi prtafolio de proyectos
+### Mis proyectos
 
 <br>
 
@@ -22,7 +22,7 @@
 
 ¡Hi! 👋
 
-### This is my portfolio
+### My projects
 
 <br>
 
