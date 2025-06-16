@@ -1,4 +1,4 @@
-👇 [Go to english version](#english)
+👇 [english](#english)
 
 <br>
 
