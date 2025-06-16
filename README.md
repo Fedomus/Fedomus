@@ -14,7 +14,7 @@
 | [Aplicación de marcadores](https://github.com/Fedomus/bookmarks) | Angular - Angular Material - JWT - NestJS - Prisma - Docker | Aplicación web full stack con Login y un administrador de marcadores (CRUD) |
 | [Data analysis with Python](https://github.com/Fedomus/freeCodeCamp-dataAnalysisPython-projects) | Python - Pandas - NumPy - Matplotlib - Seaborn | Cinco proyectos finales del curso de freeCodeCamp: 1) Demogrphic Data Analyzer; 2) Mean Variance Standard Calculator; 3) Medical Data Visualizer; 4) Page View Time Series Visualizer; 5) Sea Level Predictor |
 | [Anonymous message board](https://github.com/Fedomus/anonymous-message-board) | Node.js - Express - Helmet.js | 2° proyecto final del curso de freeCodeCamp "Information security". API para un blog con medidas de seguridad |
-| [Visualizador de datos de CINE.AR PLAY](https://github.com/Fedomus/cinearplay_data_visualization) | Python - Streamlit - Pandas | Aplicación web implementada con Streamlit que permite visualizar datos del consumo de la plataforma CINE.AR PLAY que se actualizan en tiempo real |
+| [Visualizador de datos de CINE.AR PLAY](https://github.com/Fedomus/cinearplay_data_visualization) | Python - Streamlit - Pandas | Aplicación web implementada con Streamlit que permite visualizar datos del consumo de la plataforma CINE.AR PLAY |
 <br>
 <hr>
 <p id="english"></p>
@@ -32,7 +32,7 @@
 | [Bookmarks app](https://github.com/Fedomus/bookmarks) | Angular - Angular Material - JWT - NestJS - Prisma - Docker | Full stack web application with Login and a bookmarks manager (CRUD) |
 | [Data analysis with Python](https://github.com/Fedomus/freeCodeCamp-dataAnalysisPython-projects) | Python - Pandas - NumPy - Matplotlib - Seaborn | Five final projects of freeCodeCamp's course: 1) Demogrphic Data Analyzer; 2) Mean Variance Standard Calculator; 3) Medical Data Visualizer; 4) Page View Time Series Visualizer; 5) Sea Level Predictor |
 | [Anonymous message board](https://github.com/Fedomus/anonymous-message-board) | Node.js - Express - Helmet.js | 2° proyecto final del curso de freeCodeCamp "Information security". Secure API for a blog |
-| [CINE.AR PLAY data visualization](https://github.com/Fedomus/cinearplay_data_visualization) | Python - Streamlit - Pandas | web application made with Streamlit that provides real real time visualizations of CINE.AR PLAY platform data |
+| [CINE.AR PLAY data visualization](https://github.com/Fedomus/cinearplay_data_visualization) | Python - Streamlit - Pandas | web application made with Streamlit that provides a data visualizer of CINE.AR PLAY platform |
 <br>
 <hr>
 <br>
