@@ -17,7 +17,7 @@
 | [Visualizador de datos de CINE.AR PLAY](https://github.com/Fedomus/cinearplay_data_visualization) | Python - Streamlit - Pandas | Aplicación web implementada con Streamlit que permite visualizar datos del consumo de la plataforma CINE.AR PLAY que se actualizan en tiempo real |
 <br>
 <hr>
-<p id="english">English version</p>
+<p id="english"></p>
 <br>
 
 ¡Hi! 👋
